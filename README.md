@@ -1,0 +1,3 @@
+# geez-ocr
+This is a working progress of an impruved Handwrittenocr system for all geez script based languages or Geez, Tigrenya, Amharic etc... 
+with a new dataset of Handwritten geez script characters and a new standard collection form
